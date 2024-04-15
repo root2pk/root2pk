@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ruthu!
-- 👀 I’m interested in all things Audio, Acoustics and Music technology!
-- 🌱 I’m currently working on implementing an FDTD piano model in an audio plugin
+- 👀 I’m interested in all things Acoustics, Audio tech and Machine Learning
+- 🌱 I’m currently working on extracting pitch from Canatic violin recordings and analyzing intonation
 - 📫 Reach me at ruthupk99@gmail.com
 
 <!---
